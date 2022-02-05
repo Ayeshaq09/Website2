@@ -1,0 +1,507 @@
+@media screen and (max-width:1200px){
+    .customise{
+        padding-bottom: 180px;
+    }
+    .customise img{
+        max-width: 200px;
+    }
+}
+
+
+
+@media screen and (max-width:992px){
+    /* .navbar .logo{
+        padding-right:50px;
+    } */
+    .hero__btn-signup{
+        width: 80px;
+        line-height: 20px;
+        border-radius: 15px;
+    }
+    .hero h1{
+        font-size: 40px;
+    }
+    .hero p{
+        font-size: 15px;
+    }
+    .btn-download{
+        padding:15px 26px;
+    }
+    .btn-learnmore{
+        padding:15px 54px;
+    }
+    .feature__content-box, 
+    .feature__content-box:nth-child(3){
+        padding-right: 0px;
+    }
+    .icon{
+        max-width: 12%;
+    }
+    .feature__content{
+        max-width: 88%;
+    }
+    .icon-style{
+        font-size:25px;
+    }
+    .feature__content h2{
+        font-size: 14px;
+    }
+    .feature__content p{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .product-forward{
+        background-size: 40% 80%;
+    }
+    .product-forward__content h2{
+        font-size: 18px;
+    }
+    .product-forward__content p{
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 40px;
+    }
+    .product-forward__column2 h3{
+        font-size: 13px;
+    }
+    .product-forward__column2 p{
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+    .sketch-files{
+        background-size: 40% 60%;
+    }
+    .sketch-files__content{
+        padding-right:30px;
+    }
+    .sketch-files__content h2{
+        font-size: 18px;
+    }
+    .sketch-files__content p{
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+    .sketch-files__btn{
+        padding: 3px 10px;
+    }
+    .customise{
+        padding-bottom:150px;
+    }
+    .customise h2{
+        font-size: 30px;
+        margin-bottom:15px;
+    }
+    .customise .number{
+        font-size: 20px;
+    }
+    .customise p{
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 30px;
+    }
+    .customise__btn{
+        padding: 3px 10px;
+    }
+    .customise img{
+        max-width: 150px;
+        top:300px;
+    }
+    .product-showcase{
+        padding-top:130px;
+    }
+    .product-showcase__content h2{
+        font-size: 18px;
+        margin-bottom:50px;
+    }
+    .product-showcase__column:nth-child(1){
+        padding-right:50px;
+    }
+    .product-showcase__column:nth-child(2){
+        padding-left:50px;
+    }
+    .product-showcase__column h3{
+        font-size: 13px;
+    }
+    .product-showcase__column p{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .sedna-images{
+        padding-bottom: 70px;
+    }
+    .sedna-images__column p{
+        font-size: 13px;
+        line-height: 30px;
+        margin-bottom:40px;
+    }
+    .sedna-workflow{
+        padding:100px 20px;
+    }
+    .sedna-workflow h2{
+        font-size: 30px;
+    }
+    .sedna-workflow p{
+        font-size: 13px;
+    }
+    .sedna-form{
+        padding:100px 20px;
+    }
+    .sedna-form h2{
+        font-size: 18px;
+    }
+    .sedna-form p{
+        font-size: 13px;
+        line-height: 10px;
+        margin-bottom: 50px;
+    }
+    .sedna-form__input{
+        max-width:300px;
+        height:40px;
+    }
+    .sedna-form__input input{
+        font-size: 13px;
+    }
+    .icon-border{
+        font-size: 18px;
+        line-height: 38px;
+    }
+    .sedna-form__input-btn{
+        width:300px;
+        line-height: 38px;
+    }
+    .footer__blank{
+        height:50px;
+    }
+    .footer__dropdown{
+        width:70px;
+        height:50px;
+    }
+    .footer{
+        padding:0px 0px 80px 0px;
+    }
+    .footer__content-col1{
+        padding:80px 20px 0px 20px;
+    }
+    .footer__content-col2{
+        padding:80px 20px 0px 20px;
+    }
+    .footer__content-col1 hr{
+        max-width:400px;
+    }
+    .footer__content-col1 p{
+        line-height: 20px;
+    }
+    .footer__content-col2 h2{
+        line-height: 20px;
+        margin-left:50px;
+    }
+    .social-media-link li:nth-child(1){
+        margin-left:50px;
+    }
+    .twit-custom{
+        font-size: 40px;
+    }
+    .fb-custom{
+        font-size: 40px;
+    }
+}
+
+
+
+
+@media screen and (max-width:768px){
+    /* .navbar .logo{
+        padding-right:0px;
+    } */
+    .hero__nav-left{
+        width: 200px;
+    }
+    .hero__nav-right{
+        width: 200px;
+    }
+    .sedna-logo{
+        width:120px;
+        padding-right:10px ;
+    }
+    nav{
+        width: 70px;
+    }
+    .navbar{
+        position:fixed;
+        left:-100%;
+        top:80px;
+        width:100%;
+        height:100vh;
+        background: rgb(0, 0, 0);
+        display: block;
+        text-align: center;
+    }
+    .navbar li{
+        display: block;
+        margin:10px 0px;
+    }
+    .checkbtn{
+        display: block;
+    }
+    .navbar li a{
+        font-size: 15px;
+    }
+    .navbar li a:hover{
+        border:none;
+        color:#ff5274;
+    }
+    #check:checked ~ .navbar{
+        left:0;
+    }
+    .hero__btn-signup{
+        width: 80px;
+        line-height: 10px;
+        border-radius: 10px;
+    }
+    .hero h1{
+        font-size: 30px;
+    }
+    .hero p{
+        font-size: 13px;
+    }
+    .btn-download{
+        padding:10px 16px;
+    }
+    .btn-learnmore{
+        padding:10px 44px;
+    }
+    .feature{
+        padding:80px 20px;
+    }
+    .feature__content h2{
+        font-size: 13px;
+    }
+    .feature__content p{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .product-forward{
+        background-size: 40% 70%;
+        padding:80px 20px;
+    }
+    .product-forward__content h2{
+        font-size: 15px;
+    }
+    .sketch-files{
+        background-size: 40% 60%;
+        padding:80px 20px;
+    }
+    .sketch-files__content{
+        padding-right:0px;
+    }
+    .sketch-files__content h2{
+        font-size: 15px;
+    }
+    .sketch-files__btn{
+        padding: 0px 10px;
+    }
+    .customise{
+        padding-bottom:100px;
+    }
+    .customise h2{
+        font-size: 20px;
+    }
+    .customise .number{
+        font-size: 15px;
+    }
+    .customise__btn{
+        padding: 0px 10px;
+    }
+    .customise img{
+        max-width: 130px;
+        top:250px;
+    }
+    .product-showcase{
+        padding-top:100px;
+    }
+    .product-showcase__content h2{
+        font-size: 15px;
+    }
+    .product-showcase__column:nth-child(1){
+        padding-right:30px;
+    }
+    .product-showcase__column:nth-child(2){
+        padding-left:30px;
+    }
+    .sedna-images__btn{
+        padding: 0px 20px;
+    }
+}
+
+
+
+
+@media screen and (max-width:576px){
+    .hero{
+        padding-bottom:80px;
+    }
+    .hero__nav{
+        padding-bottom: 20px;
+    }
+    .hero__nav-left{
+        width: 150px;
+    }
+    .hero__nav-right{
+        width: 150px;
+    }
+    .sedna-logo{
+        width:120px;
+        padding-right:10px ;
+    }
+    nav{
+        width: 30px;
+    }
+    /* .navbar .logo{
+        display: none;
+    } */
+    /* .hero__btn-signup{
+        width: 60px;
+        line-height: 10px;
+        border-radius: 0px;
+    } */
+    .hero__nav-left a, .hero__nav-right a{
+        font-size:10px;
+        padding:3px 6px;  
+    }
+    .hero h1{
+        font-size: 20px;
+        margin-top: 80px;
+    }
+    .hero p{
+        margin-bottom: 40px;
+    }
+    .btn-primary,.btn-secondary{
+        font-size:10px;
+        border-radius: 20px;
+    }
+    .btn-download{
+        padding:5px 6px;
+    }
+    .btn-learnmore{
+        padding:5px 24px;
+    }
+    .feature{
+        padding:50px 20px;
+    }
+    .feature__content-box{
+        max-width: 80%;
+        float:none;
+        margin:0px auto 20px auto;
+    }
+    .product-forward{
+        background-size: 40% 50%;
+        padding:40px 20px;
+    }
+    .sketch-files{
+        background-size: 40% 50%;
+        padding:40px 20px;
+    }
+    .customise{
+        padding:50px 20px 80px 20px;
+    }
+    .customise h2{
+        font-size: 15px;
+    }
+    .customise .number{
+        font-size: 12px;
+    }
+    .customise img{
+        max-width: 100px;
+        top:220px;
+    }
+    .product-showcase{
+        padding:80px 20px 50px 20px;
+    }
+    .product-showcase__content h2{
+        margin-bottom:40px;
+    }
+    .product-showcase__column{
+        float: none;
+        max-width: 100%;
+        margin:30px auto;
+    }
+    .product-showcase__column:nth-child(1){
+        padding-right:0px;
+        border:none;
+        margin-top:0px;
+    }
+    .product-showcase__column h3{
+        margin-bottom: 10px;
+    }
+    .product-showcase__column:nth-child(2){
+        padding-left:0px;
+    }
+    .product-showcase__column p{
+        max-width: 100%;
+    }
+    .sedna-images{
+        padding:0px 30px 50px 30px;
+    }
+    .sedna-images__column{
+        float:none;
+        max-width: 100%;
+    }
+    .sedna-workflow{
+        padding:80px 20px;
+    }
+    .sedna-workflow__round-border{
+        width:50px;
+        height:50px;
+    }
+    .sedna-workflow h2{
+        font-size: 20px;
+    }
+    .sedna-form{
+        padding:80px 20px;
+    }
+    .sedna-form h2{
+        font-size: 15px;
+    }
+    .sedna-form__input{
+        max-width:250px;
+    }
+    .sedna-form__input input{
+        font-size: 12px;
+    }
+    .icon-border{
+        font-size: 15px;
+    }
+    .sedna-form__input-btn{
+        width:250px;
+    }
+    .footer{
+        padding:0px 0px 50px 0px;
+    }
+    .footer__content-col1{
+        padding:50px 20px 0px 20px;
+    }
+    .footer__content-col2{
+        padding:50px 20px 0px 20px;
+    }
+    .footer__content-col1 hr{
+        max-width:300px;
+    }
+    .footer__content-col1 p{
+        line-height: 20px;
+    }
+    .footer__content-col2 h2{
+        line-height: 20px;
+        margin-left:10px;
+    }
+    .social-media-link li:nth-child(1){
+        margin-left:10px;
+    }
+    .twit-custom{
+        font-size: 30px;
+    }
+    .fb-custom{
+        font-size: 30px;
+    }
+}
